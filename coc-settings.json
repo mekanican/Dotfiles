@@ -1,0 +1,5 @@
+{
+	"clangd.semanticHighlighting": true,
+	"coc.preferences.semanticTokensHighlights": false,
+    "clangd.fallbackFlags": [ "-std=c++17" ]
+}
